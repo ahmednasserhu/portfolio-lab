@@ -1,0 +1,37 @@
+#skills-section{
+    height: 100vh;
+    background-color: #7E6363;
+}
+
+h1{
+    position: relative;
+    text-align: center;
+    margin-bottom: 30px;
+    top: 3%;
+    color: white;
+}
+
+.custom_progressBar_style{
+    height: 35px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.Skills-details{
+    width: 50%;
+    margin:auto;
+    color: white;
+}
+
+#interestsList{
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+}
+
+.interestsItems{
+    padding-bottom: 10px;
+}
+
+
+
